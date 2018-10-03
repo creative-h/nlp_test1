@@ -7,7 +7,7 @@ Python store data in form of string.
 
 With NLTK, which is open source toolkit to create nlp processes. It provides us ability to perform these tasks:
 
-Sentiment analysis
-Topic modelling
-Text classification
-Sentence segmentation or part of speech tagging
+Sentiment analysis,
+Topic modelling,
+Text classification,
+Sentence segmentation or part of speech tagging.
